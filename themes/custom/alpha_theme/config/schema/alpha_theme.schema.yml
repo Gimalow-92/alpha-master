@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+alpha_theme.settings:
+  type: alpha_theme.settings
+  label: 'Alpha Theme settings'
